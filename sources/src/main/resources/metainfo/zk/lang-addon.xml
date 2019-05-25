@@ -16,7 +16,8 @@
 
     <component>
         <component-name>ckeditor</component-name>
-        <extends>ckeditor</extends>
+        <component-class>tools.dynamia.modules.ckeditor.Richeditor</component-class>
+        <widget-class>ckez.CKeditor</widget-class>
         <annotation>
             <annotation-name>default-bind</annotation-name>
             <property-name>value</property-name>
