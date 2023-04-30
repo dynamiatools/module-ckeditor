@@ -23,12 +23,12 @@ fields:
 <dependency>
   <groupId>tools.dynamia.modules</groupId>
   <artifactId>tools.dynamia.modules.ckeditor</artifactId>
-  <version>4.11.1.0</version>
+  <version>4.20.1.0</version>
 </dependency>
 ```
 
 **Gradle**
 ```groovy
-compile 'tools.dynamia.modules:tools.dynamia.modules.ckeditor:4.11.1.0'
+compile 'tools.dynamia.modules:tools.dynamia.modules.ckeditor:4.20.1.0'
 ```
 
