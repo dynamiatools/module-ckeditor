@@ -27,13 +27,13 @@
 
 
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
         <maven.compiler>3.11.0</maven.compiler>
         <source.encoding>UTF-8</source.encoding>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <dynamiatools.version>4.2.0</dynamiatools.version>
+        <dynamiatools.version>5.0.0</dynamiatools.version>
     </properties>
 
     <scm>
