@@ -4,7 +4,7 @@
     <groupId>tools.dynamia.modules</groupId>
     <artifactId>tools.dynamia.modules.ckeditor</artifactId>
     <name>Dynamia Modules - CKeditor</name>
-    <version>4.20.1.0</version>
+    <version>4.20.1.0-jakarta</version>
     <packaging>jar</packaging>
 
     <url>http://www.dynamia.tools/module-ckeditor</url>
@@ -59,6 +59,11 @@
             <groupId>tools.dynamia</groupId>
             <artifactId>tools.dynamia.zk</artifactId>
             <version>${dynamiatools.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-fileupload</groupId>
+            <artifactId>commons-fileupload</artifactId>
+            <version>1.5</version>
         </dependency>
     </dependencies>
 
