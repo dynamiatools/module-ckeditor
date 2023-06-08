@@ -69,9 +69,9 @@
 
     <repositories>
         <repository>
-            <id>zk</id>
-            <name>ZK Maven Repo</name>
-            <url>http://mavensync.zkoss.org/maven2/</url>
+            <id>ZK CE</id>
+            <name>ZK CE Repository</name>
+            <url>https://mavensync.zkoss.org/maven2</url>
         </repository>
     </repositories>
 
