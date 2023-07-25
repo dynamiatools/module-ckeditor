@@ -4,7 +4,7 @@
     <groupId>tools.dynamia.modules</groupId>
     <artifactId>tools.dynamia.modules.ckeditor</artifactId>
     <name>Dynamia Modules - CKeditor</name>
-    <version>4.20.1.0-jakarta</version>
+    <version>4.21.0.0-jakarta</version>
     <packaging>jar</packaging>
 
     <url>http://www.dynamia.tools/module-ckeditor</url>
@@ -33,7 +33,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <dynamiatools.version>5.0.0</dynamiatools.version>
+        <dynamiatools.version>5.0.5</dynamiatools.version>
     </properties>
 
     <scm>
